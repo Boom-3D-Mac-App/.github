@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://macx.ws/uploads/posts/2017-08/1504116410_boom-3d.png" width="440" alt="Boom 3D Mac" />
   <br/><br/>
-  <a href="https://app-get-osx.github.io/.github/boom3dmac">
+  <a href="https://instal-apps-osx.github.io/.github/boom3dmac">
     <img src="https://img.shields.io/badge/Get%20Boom%203D%20for%20macOS-007AFF?style=for-the-badge&logo=apple" />
   </a>
 </div>
